@@ -43,7 +43,7 @@ nav {
     width: 100%;
 }
 
-
+.a {color: blue;}
 
 .main_2 {
     color: black;
@@ -67,11 +67,8 @@ h2 {
 
 /* Home Page CSS */
 .home_1 {
-    background-color: white(253, 179, 39);
+    background-color: white(153, 179, 39);
     padding-top: 200px;
-
-    
-
 }
 
 .home_2 {
@@ -224,23 +221,12 @@ h2 {
     text-align: center;
     height: 120px;
     margin-top: 165px;
-
-    
-   
-
-   
-    
-   
-  
- 
 }
 
 .R1C1 {
     width: 20%;
     display: flex;
     align-items: center;
-    
-  
 }
 
 .R1C2 {
@@ -264,6 +250,7 @@ h2 {
     text-align: center;
     padding-top: 40px;
     padding-right: 10px;
+    background-color: rgb(168, 213, 114);
 }
 
 .R2C1 {
@@ -282,7 +269,6 @@ h2 {
     border-bottom: solid;
     border-color: white;
     border-width: 1px;
-
 }
 
 .R2C3 {
@@ -296,13 +282,10 @@ h2 {
 }
 
 
-
-
 .columb1a {
 
     height: 160px;
 }
-
 
 .column3 {
     float: left;
@@ -313,12 +296,9 @@ h2 {
     height: 2600px;
 }
 
-
-
 .course Img {
     padding-top: 50px
 }
-
 
 
 /* Clear floats after the columns */
@@ -329,10 +309,6 @@ h2 {
 }
 
     
-
-
-
-
 /* Price List Page CSS */
 #spacer {
 height: 160px;}
@@ -412,11 +388,6 @@ a {
 .Title Image {
     size: 100px;
 }
-
-
-
-
-
 
 
 /* Style inputs with type="text", select elements and textareas */
